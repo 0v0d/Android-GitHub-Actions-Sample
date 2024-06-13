@@ -24,7 +24,7 @@ lifecycleRuntimeKtx = "2.8.1"
 activityCompose = "1.9.0"
 composeBom = "2024.05.00"
 navigationCompose = "2.7.7"
-uiTestJunit4Android = "1.6.7"
+uiTestJunit4Android = "1.6.8"
 uiTestManifest = "1.6.7"
 uiTooling = "1.6.7"
 
